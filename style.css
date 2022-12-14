@@ -1,6 +1,19 @@
+html {
+    font-family: monospace;
+}
+
 body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     background-color: dodgerblue;
+}
+
+#cabecera {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    float: inline-end;
 }
