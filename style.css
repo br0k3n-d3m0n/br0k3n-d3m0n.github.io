@@ -4,7 +4,6 @@ html {
 
 body {
     min-height: 100vh;
-    display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
@@ -22,4 +21,8 @@ footer {
 
 #t1 {
     font-size: 20px;
+}
+
+#BETIS {
+    float: right;
 }
