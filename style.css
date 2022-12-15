@@ -31,3 +31,71 @@ footer {
     float: left;
     height: auto;
 }
+
+#top {
+    background: FFF;
+    background-color: white;
+    background-image: url('layout_set_logo.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 145px;
+    min-width: 960px;
+    display: block;
+}
+
+#navegación {
+    height: 150px;
+    border: 0;
+    margin: 0;
+    padding: 10px 0 0 0;
+    width: 97%;
+    min-width: 980px;
+}
+
+#navegación ul {
+    height: 33px;
+    list-style: none;
+}
+
+#navegación #navbar {
+    float: left;
+    clear: both;
+    padding: 0 0 0 2em;
+    margin-left: 0 7em;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 960px;
+    background-image: url('menuBK.gif');
+    background-position-x: left;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat: repeat-x;
+}
+
+#navegación li {
+    list-style: none;
+    float: left;
+    background-position-x: left;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0 0 0 15px;
+}
+
+#navegación li a {
+    display: block;
+    color: white;
+    line-height: 10px;
+    padding: 15px 20px;
+    float: left;
+    text-decoration: none;
+    background-color: darkcyan;
+    border-radius: 7%;
+}
+
+#logos {
+    margin: 0;
+}
