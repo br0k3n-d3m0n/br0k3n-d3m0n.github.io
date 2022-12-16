@@ -15,7 +15,7 @@ body {
 }
 
 footer {
-    margin-top: auto;
+    margin-top: 50vh;
 }
 
 #t1 {
@@ -101,6 +101,21 @@ footer {
 }
 
 #p1 {
-    float: center;
-    margin-top: 15%;
+    margin-top: 13vh;
+    text-align: center;
+}
+
+#pm {
+    text-decoration: none;
+}
+
+#gh {
+    width: 200px;
+    height: 33px;
+    margin-top: 13vh;
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    text-align: center;
 }
