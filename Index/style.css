@@ -96,12 +96,16 @@ footer {
     border-radius: 7%;
 }
 
+#navegación li a:hover {
+    color: darkturquoise;
+}
+
 #logos {
     margin: 0;
 }
 
 #p1 {
-    margin-top: 13vh;
+    margin-top: 0;
     text-align: center;
 }
 
