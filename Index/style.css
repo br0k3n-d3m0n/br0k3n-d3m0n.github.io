@@ -130,12 +130,23 @@ footer {
 
 #textopresent {
     margin-top: 20vh;
-
+    
 }
 
-#tituloedificio{
+#tituloedificio {
+    margin-top: 175px;
+    width: 1024px;
+    height: 768px;
+}
 
+#tituloedificio h1{
+color: red;
+top: 40px;
+}
 
+#tituloedificio img {
+    width: 900px;
+    height: 500px;
 }
 
 #Matriculacion {
@@ -247,6 +258,7 @@ footer {
 #not {
     position: absolute;
     top: 175px;
+    display: inline-block;
 }
 
 #not1 {
@@ -254,6 +266,9 @@ footer {
     padding: 3px;
     border-radius: 15px;
     margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
 }
 
 #not2 {
@@ -261,6 +276,9 @@ footer {
     padding: 3px;
     border-radius: 15px;
     margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
 }
 
 #not3 {
@@ -268,6 +286,9 @@ footer {
     padding: 3px;
     border-radius: 15px;
     margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
 }
 
 #not4 {
@@ -275,4 +296,28 @@ footer {
     padding: 3px;
     border-radius: 15px;
     margin-bottom: 1px;
-}
+    width: 576px;
+    height: 125px;
+    float: left;
+} 
+  
+
+#not5 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}   
+
+#not6 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}   
