@@ -27,6 +27,11 @@ footer {
     height: auto;
 }
 
+#BETIS img {
+    width: 300px;
+    height: 120px;
+}
+
 #acarreo {
     float: left;
     height: auto;
@@ -215,7 +220,7 @@ footer {
 
 #if {
     position: absolute;
-    top: 175px;
+    top: 145px;
     right: 15px;
     z-index: -1;
     display: inline-block;
