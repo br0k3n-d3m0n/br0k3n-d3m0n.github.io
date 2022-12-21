@@ -105,6 +105,9 @@ footer {
 }
 
 #p1 {
+    position: absolute;
+    top: 155px;
+    left: 33%;
     margin-top: 0;
     text-align: center;
 }
