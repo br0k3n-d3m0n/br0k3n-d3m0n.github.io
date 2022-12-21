@@ -108,6 +108,7 @@ footer {
     position: absolute;
     top: 155px;
     left: 33%;
+    z-index: -1;
     margin-top: 0;
     text-align: center;
 }
@@ -211,3 +212,8 @@ footer {
     margin-left: 350px;
 }
 
+#es {
+    position: absolute;
+    top: 175px;
+    left: 33%;
+}
