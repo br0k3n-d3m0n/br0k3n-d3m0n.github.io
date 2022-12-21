@@ -257,7 +257,7 @@ top: 40px;
 
 #not {
     position: absolute;
-    top: 175px;
+    top: 200px;
     display: inline-block;
 }
 
@@ -269,6 +269,8 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 #not2 {
@@ -279,6 +281,8 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 #not3 {
@@ -289,6 +293,8 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 #not4 {
@@ -299,6 +305,8 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 } 
   
 
@@ -310,6 +318,8 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }   
 
 #not6 {
@@ -320,4 +330,6 @@ top: 40px;
     width: 576px;
     height: 125px;
     float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }   
