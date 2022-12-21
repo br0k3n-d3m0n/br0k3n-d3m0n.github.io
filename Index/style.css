@@ -92,12 +92,12 @@ footer {
     padding: 15px 20px;
     float: left;
     text-decoration: none;
-    background-color: darkcyan;
+    background-color: red;
     border-radius: 7%;
 }
 
 #navegación li a:hover {
-    color: darkturquoise;
+    color: yellow;
 }
 
 #logos {
@@ -125,5 +125,86 @@ footer {
 }
 
 #textopresent {
-    margin-top: 10vh;
+    margin-top: 20vh;
 }
+
+#Matriculacion {
+    margin-top: 10vh;
+
+}
+
+
+
+.slot img {
+    max-width: 100%;
+}
+
+.slot {
+    border: 5px solid rgb(155, 24, 24);
+    background-color: rgb(212, 209, 209);
+    float: left;
+    margin: 0.2%;
+    padding: 0.3em;
+    width: 500px;
+    height: 700px;
+    margin-top: 140px;
+    margin-left: 350px;
+}
+
+.slot2 img {
+    max-width: 100%;
+    width: 900px;
+    height: 500px;
+    
+}
+
+.slot2 {
+    border: 5px solid rgb(155, 24, 24);
+    background-color: rgb(212, 209, 209);
+    float: left;
+    margin: 0.2%;
+    padding: 0.3em;
+    width: 500px;
+    height: 700px;
+    margin-top: 140px;
+    margin-left: 350px;
+}
+
+.slot3 img {
+    max-width: 100%;
+    width: 900px;
+    height: 500px;
+    
+}
+
+.slot3 {
+    border: 5px solid rgb(155, 24, 24);
+    background-color: rgb(212, 209, 209);
+    float: left;
+    margin: 0.2%;
+    padding: 0.3em;
+    width: 500px;
+    height: 700px;
+    margin-top: 140px;
+    margin-left: 350px;
+}
+
+.slot4 img {
+    max-width: 100%;
+    width: 900px;
+    height: 500px;
+    
+}
+
+.slot4 {
+    border: 5px solid rgb(155, 24, 24);
+    background-color: rgb(212, 209, 209);
+    float: left;
+    margin: 0.2%;
+    padding: 0.3em;
+    width: 500px;
+    height: 700px;
+    margin-top: 140px;
+    margin-left: 350px;
+}
+
