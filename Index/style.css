@@ -68,11 +68,6 @@ footer {
     margin: 0 auto;
     width: 100%;
     min-width: 960px;
-    background-image: url('imaganes_index/menuBK.gif');
-    background-position-x: left;
-    background-position-y: top;
-    background-size: initial;
-    background-repeat: repeat-x;
 }
 
 #navegación li {
@@ -216,4 +211,25 @@ footer {
     position: absolute;
     top: 175px;
     left: 33%;
+}
+
+#if {
+    position: absolute;
+    top: 175px;
+    right: 0;
+    z-index: -1;
+    display: inline-block;
+    width: 320px;
+    height: 720px;
+}
+
+#if iframe {
+    width: 100%;
+    height: 100%;
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    text-align: center;
+    scroll: no;
 }
