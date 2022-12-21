@@ -27,6 +27,11 @@ footer {
     height: auto;
 }
 
+#BETIS img {
+    width: 300px;
+    height: 120px;
+}
+
 #acarreo {
     float: left;
     height: auto;
@@ -101,7 +106,7 @@ footer {
 
 #p1 {
     position: absolute;
-    top: 155px;
+    top: 170px;
     left: 33%;
     z-index: -1;
     margin-top: 0;
@@ -125,17 +130,34 @@ footer {
 
 #textopresent {
     margin-top: 20vh;
+    
+}
+
+#tituloedificio {
+    margin-top: 175px;
+    width: 1024px;
+    height: 768px;
+}
+
+#tituloedificio h1{
+color: red;
+top: 40px;
+}
+
+#tituloedificio img {
+    width: 900px;
+    height: 500px;
 }
 
 #Matriculacion {
-    margin-top: 10vh;
-
+    margin-top: 145px;
 }
-
 
 
 .slot img {
     max-width: 100%;
+    width: 100%;
+    height: 50%;
 }
 
 .slot {
@@ -144,16 +166,16 @@ footer {
     float: left;
     margin: 0.2%;
     padding: 0.3em;
-    width: 500px;
+    width: 450px;
     height: 700px;
     margin-top: 140px;
-    margin-left: 350px;
+    margin-left: 245px;
 }
 
 .slot2 img {
     max-width: 100%;
-    width: 900px;
-    height: 500px;
+    width: 100%;
+    height: 50%;
     
 }
 
@@ -163,17 +185,16 @@ footer {
     float: left;
     margin: 0.2%;
     padding: 0.3em;
-    width: 500px;
+    width: 450px;
     height: 700px;
     margin-top: 140px;
-    margin-left: 350px;
+    margin-left: 245px;
 }
 
 .slot3 img {
     max-width: 100%;
-    width: 900px;
-    height: 500px;
-    
+    width: 100%;
+    height: 50%;
 }
 
 .slot3 {
@@ -182,16 +203,16 @@ footer {
     float: left;
     margin: 0.2%;
     padding: 0.3em;
-    width: 500px;
+    width: 450px;
     height: 700px;
     margin-top: 140px;
-    margin-left: 350px;
+    margin-left: 245px;
 }
 
 .slot4 img {
     max-width: 100%;
-    width: 900px;
-    height: 500px;
+    width: 100%;
+    height: 50%;
     
 }
 
@@ -201,10 +222,10 @@ footer {
     float: left;
     margin: 0.2%;
     padding: 0.3em;
-    width: 500px;
+    width: 450px;
     height: 700px;
     margin-top: 140px;
-    margin-left: 350px;
+    margin-left: 245px;
 }
 
 #es {
@@ -215,7 +236,7 @@ footer {
 
 #if {
     position: absolute;
-    top: 175px;
+    top: 145px;
     right: 15px;
     z-index: -1;
     display: inline-block;
@@ -233,3 +254,70 @@ footer {
     text-align: center;
     scrolling: no;
 }
+
+#not {
+    position: absolute;
+    top: 175px;
+    display: inline-block;
+}
+
+#not1 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}
+
+#not2 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}
+
+#not3 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}
+
+#not4 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+} 
+  
+
+#not5 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}   
+
+#not6 {
+    border: 2px solid rgb(218, 221, 231);
+    padding: 3px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    width: 576px;
+    height: 125px;
+    float: left;
+}   
